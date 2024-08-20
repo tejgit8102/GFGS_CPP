@@ -16,3 +16,15 @@ int main() {
     sol.helloWorld();  // Call the helloWorld method
     return 0;
 }
+
+
+/*
+We write only the below code in the editor of GFGS
+
+class Solution {
+    public:
+    void helloWorld() {
+        cout << "Hello World";
+    }
+};
+*/
